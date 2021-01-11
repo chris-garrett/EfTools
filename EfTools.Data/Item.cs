@@ -1,6 +1,6 @@
 using System;
 
-namespace EfTools.Migrations
+namespace EfTools.Data
 {
     public class Item
     {

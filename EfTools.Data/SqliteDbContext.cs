@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace EfTools.Migrations
+namespace EfTools.Data
 {
     public class SqliteDbContext : AppDbContext
     {

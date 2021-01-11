@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.Extensions.Configuration;
 
-namespace EfTools.Migrations
+namespace EfTools.Data
 {
     public class SqliteDesignTimeContextFactory : IDesignTimeDbContextFactory<SqliteDbContext>
     {
